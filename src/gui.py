@@ -6,9 +6,9 @@ import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 from datetime import datetime
 
-from utils import PUZZLES
-from algorithm1 import cultural_algorithm
-from algorithm2 import compute_animation_sequence
+from src.utils import PUZZLES
+from src.algorithm1 import cultural_algorithm
+from src.algorithm2 import compute_animation_sequence
 
 CELL_SIZE = 70
 FONT_NUM = ("Arial", 24, "bold")
