@@ -1,0 +1,12 @@
+# All libraries below are part of the Python standard library.
+# No external installation via pip is required.
+
+tkinter     # GUI 
+threading   # Running CA solver without freezing the GUI
+time        # For execution timing
+datetime    # For save/export timestamps
+copy        # Deep copy of boards/grids
+random      # Cultural algorithm randomness
+
+#Python version needed
+python>=3.10
