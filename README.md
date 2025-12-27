@@ -16,7 +16,7 @@ It has a functional GUI that showcases how these two algorithms can solve kenken
 - Force-stop and skip animation controls
 
 ## 📸 Screenshot
-![KenKen Solver Interface](GUI.png)
+![KenKen Solver Interface](docs/GUI.png)
 Setup Instructions:
 
 ## 🚀 Quick Start
