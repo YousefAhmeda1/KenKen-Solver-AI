@@ -17,7 +17,6 @@ It has a functional GUI that showcases how these two algorithms can solve kenken
 
 ## 📸 Screenshot
 ![KenKen Solver Interface](docs/GUI.png)
-Setup Instructions:
 
 ## 🚀 Quick Start
 
